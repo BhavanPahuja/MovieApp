@@ -1,11 +1,5 @@
 
-# AngularMovieAppV2
-
-Welcome to AngularMovieAppV2! This web application enables users to discover movie and TV show trailers, leveraging data from the TMDB API. The project is built with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
-
-## Live Demos
-
-- **Previous Version**: [Old Movie Demo](https://flixmovies-82298.firebaseapp.com)
+# AngularMovieApp
 
 ## Features
 
@@ -36,13 +30,9 @@ ng serve
 Here are some screenshots of the application:
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/715c2055-6184-456c-8fa3-e96c4247e8ae" alt="Screenshot 1" />
+    <img src="https://github.com/BhavanPahuja/MovieApp/blob/main/movie-app-1.png?raw=true" alt="Screenshot 1" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e536a559-bd72-4b31-a923-6f8e658fe5b0" alt="Screenshot 2" />
+    <img src="https://github.com/BhavanPahuja/MovieApp/blob/main/movie-app-2.png?raw=true" alt="Screenshot 2" />
 </p>
-
-## Contribution
-
-Interested in contributing? If you find a bug, have suggestions, or want to add new features, feel free to create a pull request or open an issue. Contributions are always welcome!
